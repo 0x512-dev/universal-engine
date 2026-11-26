@@ -1,6 +1,6 @@
 #include "gpu/GpuContext.h"
 
-#include <SDL2/SDL_vulkan.h>
+#include <SDL_vulkan.h>
 
 #include <stdexcept>
 #include <algorithm>

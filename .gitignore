@@ -1,1 +1,8 @@
 build/
+android/SDL2/
+android/.gradle/
+android/build/
+android/app/build/
+android/app/.cxx/
+android/app/src/main/java/org/
+android/local.properties

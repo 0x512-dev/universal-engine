@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-int main() {
+int main(int, char*[]) {
     try {
         ue::Window window(720, 1650, "test");
         ue::GpuContext gpu(window.handle());
